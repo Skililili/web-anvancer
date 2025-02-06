@@ -10,6 +10,6 @@ export default function AfricanCup() {
         Ahmad Faras, qui est alors âgé de 29 ans, fait partie de cette génération qui se voit proposer ce qui est peut-être sa dernière chance de régner sur le toit de l’Afrique avant de passer le relais. « Nous avions vécu la CAN 1972 au Cameroun. Celle-ci s’était soldée par un échec car nous étions partis à Douala avec de grandes ambitions. Nous avions également eu à digérer une élimination amère de la Coupe du monde 1974 en RFA. La détermination et la discipline de l’équipe étaient nos principaux atouts », explique l’ex-buteur du SCC Mohammedia et de la sélection (42 buts en 77 capes)."
         image="\africancup.jpg"
       />
-    </div>
+   </div>
   );
 }
